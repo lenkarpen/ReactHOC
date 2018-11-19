@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getUniqueID function should throw, when called with non-number type argument 1`] = `
+<section
+  className="counter"
+>
+  Posts count: 
+  3
+</section>
+`;
