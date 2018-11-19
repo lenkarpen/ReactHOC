@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 export const Message = styled.div`
     color: saddleBrown;
-    margin-bottom: 10px;
+    margin-bottom: 11px;
     font-size: 30px;
     font-weight: 500;
     min-height: 30px;
