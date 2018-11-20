@@ -1,7 +1,7 @@
 {
     "name": "react-online-intensive",
     "version": "1.2.2",
-    "author": "Dima Vakatsiienko <d.vakatsiienko@lectrum.io>",
+    "author": "Serhii Melnyk <serj.melnyk@gmail.com>",
     "private": true,
     "scripts": {
         "start": "nodemon",
